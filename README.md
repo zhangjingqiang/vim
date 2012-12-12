@@ -6,7 +6,7 @@ Features
 
 Search scripts from www.vim.org.
 
-It's running on [Heroku](http://vim.heroku.com).
+It's running on [Heroku](http://vim.herokuapp.com).
 
 License
 -------
