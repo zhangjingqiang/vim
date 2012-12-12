@@ -71,8 +71,17 @@
     </div>
     <div class="span6">
       <div class="bsa well">
-          <div class="bsarocks bsap_c466df00a3cd5ee8568b5c4983b6bb19"><%= link_to image_tag(avatar_url, :size => "20x20"), @about_me, :class => "navbar-link" %></div>
-          <div class="clearfix"><a href="<%= @about_me %>" id="bsap_aplink">About me</div>
+        <div>
+          <div class="bsa_it one">
+            <div>
+              <span class="bsa_it_i">
+                <%= link_to image_tag(avatar_url, :size => "20x20"), @about_me, :class => "navbar-link" %>
+              </span>
+              <span class="bsa_it_t">Software Engineer</span>
+            </div>
+          </div>
+        </div>
+        <div class="clearfix"><a href="<%= @about_me %>" id="bsap_aplink">About me</div>
       </div>
     </div>
   </div>
