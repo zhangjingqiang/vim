@@ -12,7 +12,7 @@ before do
     @twitter = 'http://twitter.com/zhangjingqiang'
     @facebook = 'https://www.facebook.com/zhangjingqiang'
     @google_plus = 'https://plus.google.com/111238723646169905787'
-    @github = 'https://github.com/zhangjingqiang'
+    @github = 'https://github.com/zhangjingqiang/vim'
     @email = 'zhangjingqiang@gmail.com'
     @google = 'http://www.google.com'
     @google_search = 'http://www.google.com/search?sitesearch=www.vim.org&as_q='
